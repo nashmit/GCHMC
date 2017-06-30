@@ -1,4 +1,4 @@
-git clone --recursive <location for gchmc>
+git clone --recursive location for gchmc
 
 cd gchmc/
 
