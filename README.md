@@ -7,6 +7,9 @@ cd gmolmodel/
 vim cmake_install_dep.sh
 
 //change -DAnacondaEnvironmentPath="/home/osboxes/Anaconda/envs/" with your correct path to your envs's folder from your anaconda folder
+
+//be sure that your path ends with "/" !
+
 // save :)
 
 mkdir build-debug
