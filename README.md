@@ -1,11 +1,18 @@
 git clone --recursive <location for gchmc>
+
 cd gchmc/
+
 cd gmolmodel/
+
 vim cmake_install_dep.sh
+
 //change -DAnacondaEnvironmentPath="/home/osboxes/Anaconda/envs/" with your correct path to your envs's folder from your anaconda folder
 // save :)
+
 mkdir build-debug
+
 cd build-debug/
+
 bash ../cmake_install_dep.sh  && source activate mmtk_environment && bash ../cmake_cmake.sh && make
 
 That's it, no environment variable :)
