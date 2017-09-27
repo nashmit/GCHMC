@@ -17,7 +17,7 @@ This list is formed by packages, how they appeared in APT Debian package manager
 
 also cmake >= 3.0
 
-gcc version must accept c++11. Currently, the project was tested with gcc 5.0 or higher.
+gcc version must accept c++11. Currently, the project was tested with gcc 5.0 / g++ 5.0 or higher.
 
 git clone --recursive location for gchmc
 
