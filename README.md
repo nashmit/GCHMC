@@ -21,6 +21,8 @@ gcc version must accept c++11. Currently, the project was tested with gcc 5.0 / 
 
 git clone --recursive location for gchmc
 
+make sure that simbody project it's on RoboSampling branch ( cd gchmc/gmolmodel/molmodel_legacy/simbody  git checkout RoboSampling )
+
 cd gchmc/
 
 cd gmolmodel/
